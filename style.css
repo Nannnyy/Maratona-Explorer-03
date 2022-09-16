@@ -1,0 +1,103 @@
+/*GERAL*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: hsl(34, 100%, 92%);
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
+h1, h2, h3, .price {
+    font-family: 'Roboto Serif', serif;
+    text-transform: uppercase;
+    color: hsl(40, 3%, 17%)
+}
+
+
+/*HEADER*/
+header{
+    max-width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 32px 0;
+
+}
+
+header h1{
+    font-size: 28px;
+    line-height: 33px;
+
+    margin-bottom: 4px;
+    font-family: 'Roboto Serif', serif;
+    font-size: 28px;
+}
+
+
+header h1 span {
+    line-height: 16px;
+    color:hsl(31, 100%, 30%)
+    
+}
+
+header p {
+    color: rgba(0, 0, 0, 0.7);
+}
+
+
+/*SECTION*/
+section {
+    max-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+    
+}
+
+section h2 {
+    font-size: 18px;
+    line-height: 21px;
+
+    background-color: hsl(32, 98%, 83%);
+    padding: 8px 16px;
+    text-align: center;
+    margin-bottom: 24px;
+
+}
+
+
+
+/*LISTA*/
+
+ul li{
+    margin-bottom: 16px;
+    display: flex;
+    
+}
+
+li .details {
+    max-width: 240px;
+}
+
+.details h3 {
+    font-size: 16px;
+    line-height: 19px;
+    margin-bottom: 8px;
+}
+
+.detalis p {
+    color:  rgba(0, 0, 0, 0.6);
+    font-size: 14px;
+    line-height: 21px;
+    
+}
+
+.price {
+    font-size: 16px;
+    line-height: 19px; 
+}
