@@ -6,7 +6,7 @@
 
 Projeto desenvolvido na Maratona Explorer 03 da Rocketseat
 
-[🔗 clique aqui para acessar](https://nannnyy.github.io/maratona-explorer-3/)
+[🔗 clique aqui para acessar](https://nannnyy.github.io/Maratona-Explorer-03/)
 
 ## 💻 Tecnologias
 
