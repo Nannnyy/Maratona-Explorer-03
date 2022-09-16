@@ -1,6 +1,6 @@
 ## Maratona Explorer 03
 
-[!preview](./.github/nannnyy.github.io_Maratona-Explorer-03_.png)
+[!preview](./.github/preview.png)
 
 > Trilha Explorer
 
